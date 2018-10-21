@@ -1,3 +1,4 @@
+<!-- This code is written in HTML -->
 <!DOCTYPE html>
 <html>
 <head>
